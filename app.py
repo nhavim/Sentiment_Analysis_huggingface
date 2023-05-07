@@ -35,9 +35,9 @@ def main():
 
     # Define the available models
     models = {
-        "ROBERTA": "Slygags/finetuned-Sentiment-classfication-ROBERTA-model",
-        "BERT": "Slygags/finetuned-Sentiment-classfication-BERT-model",
-        "DISTILBERT": "Slygags/finetuned-Sentiment-classfication-DISTILBERT-model"
+        "ROBERTA": "nhavim/finetuned-Sentiment-classfication-ROBERTA-model",
+        "BERT": "nhavim/finetuned-Sentiment-classfication-BERT-model",
+        "DISTILBERT": "nhavim/finetuned-Sentiment-classfication-DISTILBERT-model"
     }
 
     menu = ["Home", "About"]
