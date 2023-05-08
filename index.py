@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 import altair as alt
-from transformers import AutoTokenizer, AutoModelForSequenceClassification
+from transformvers import AutoTokenizer, AutoModelForSequenceClassification
 from PIL import Image
 import base64
 
